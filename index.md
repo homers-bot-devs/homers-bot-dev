@@ -7,17 +7,9 @@ Its Developers Are RaspberryRBX#9446, Homer&#39;s Rebuttal#9018</p>
     <input type="submit" value="Go To Support Page" />
 </form>
 
-<form action="dsc.gg/rbxbot">
-    <input type="submit" value="Invite RBXBot" />
-</form>
-
-<form action="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/homers-bot-devs/RBXBot/tree/main/CLI">
-    <input type="submit" value="RBXBot CLI Download" />
-</form>
-
-<form action="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/homers-bot-devs/RBXBot/tree/main/GUI">
-    <input type="submit" value="RBXBot Gui Download" />
-</form>
+ <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/homers-bot-devs/RBXBot/tree/main/CLI">RBXBot CLI Install</a> 
+ <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/homers-bot-devs/RBXBot/tree/main/GUI">RBXBot GUI Install</a>
+ <a href="dsc.gg/rbxbot">Invite RBXBot</a> 
 
 <h1 id="commands">Commands</h1>
 <p>Economy:
