@@ -3,7 +3,7 @@
 It Has A Backup System A Ecomany System And Security System
 Its Developers Are RaspberryRBX#9446, Homer&#39;s Rebuttal#9018</p>
 
-<form action="www.rbxcorp.tk/support.html">
+<form action="support.html">
     <input type="submit" value="Go To Support Page" />
 </form>
 
