@@ -1,7 +1,7 @@
-# RBXBot
-RBXBot Is A Mod Bot And A Fun Bot
+<h1 id="rbxbot">RBXBot</h1>
+<p>RBXBot Is A Mod Bot And A Fun Bot
 It Has A Backup System A Ecomany System And Security System
-Its Developers Are RaspberryRBX#9446, Homer's Rebuttal#9018
+Its Developers Are RaspberryRBX#9446, Homer&#39;s Rebuttal#9018</p>
 <form action="dsc.gg/rbxbot">
     <input type="submit" value="Invite RBXBot" />
 </form>
@@ -14,15 +14,6 @@ Its Developers Are RaspberryRBX#9446, Homer's Rebuttal#9018
     <input type="submit" value="RBXBot Gui Download" />
 </form>
 
-# Commands
-Economy:
-Bal, Leaderboard/LB, Work | Server Admin Only: addmoney, setmoney, removemoney
-
-Fun:
-Say, 8Ball, Ascii, Meme, WB, RPS, Embed
-
-Others:
-Invite, Server-info, Info, Avatar, Ping, Support, Status
-
-Admin:
-Give-Role, Delemoji, Addemoji, Mute, Unmute, Ban, Kick
+<h1 id="commands">Commands</h1>
+<p>Economy:
+Bal, Leaderboard/LB, Work | Server Admin Only: addmoney, setmoney, removemoney</p>
