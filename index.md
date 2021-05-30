@@ -7,6 +7,8 @@ Its Developers Are RaspberryRBX#9446, Homer&#39;s Rebuttal#9018</p>
     <input type="submit" value="Go To Support Page" />
 </form>
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eiyXK9IqKbg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
  <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/homers-bot-devs/RBXBot/tree/main/CLI">RBXBot CLI Install</a> 
  <a href="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/homers-bot-devs/RBXBot/tree/main/GUI">RBXBot GUI Install</a>
  <a href="dsc.gg/rbxbot">Invite RBXBot</a> 
