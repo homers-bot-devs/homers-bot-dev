@@ -12,6 +12,10 @@ Its Developers Are RaspberryRBX#9446, Homer's Rebuttal#9018
     <input type="submit" value="RBXBot CLI Download" />
 </form>
 
+<form action="https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/homers-bot-devs/RBXBot/tree/main/GUI">
+    <input type="submit" value="RBXBot Gui Download" />
+</form>
+
 # Commands
 Economy:
 Bal, Leaderboard/LB, Work | Server Admin Only: addmoney, setmoney, removemoney
