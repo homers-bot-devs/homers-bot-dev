@@ -20,7 +20,9 @@ Bal, Leaderboard/LB, Work | Server Admin Only: addmoney, setmoney, removemoney
 
 Fun:
 Say, 8Ball, Ascii, Meme, WB, RPS, Embed
+
 Others:
 Invite, Server-info, Info, Avatar, Ping, Support, Status
+
 Admin:
 Give-Role, Delemoji, Addemoji, Mute, Unmute, Ban, Kick
