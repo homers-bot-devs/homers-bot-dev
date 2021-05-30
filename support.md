@@ -1,6 +1,6 @@
 ---
 title: Support
-layout: template
+layout: Cayman
 filename: support.md
 --- 
 
