@@ -7,7 +7,7 @@ Its Developers Are RaspberryRBX#9446, Homer's Rebuttal#9018
 
 # Commands
 Economy:
-Bal, Leaderboard/LB, Work | Server Admin Only: addmoney, setmoney, removemoney
+Bal, Leaderboard/LB, Work | Server Admin Only: addmoney, setmoney, removemoney /n
 Fun:
 Say, 8Ball, Ascii, Meme, WB, RPS, Embed
 Others:
