@@ -1,6 +1,6 @@
 ---
 title: Support
-layout: Cayman
+layout: jekyll-theme-cayman
 filename: support.md
 --- 
 
