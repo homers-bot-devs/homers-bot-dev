@@ -1,14 +1,7 @@
----
-title: Support
-layout: jekyll-theme-cayman
-filename: support.md
---- 
-
-# Support
-
-Get Supprot From:
+<h1 id="support">Support</h1>
+<p>Get Supprot From:
 therbxbot@rbxcorp.tk
-Or:
+Or:</p>
 <form action="dsc.gg/rbxbotsupport">
     <input type="submit" value="RBXBot Support Server" />
 </form>
