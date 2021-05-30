@@ -2,4 +2,4 @@
 <p>Get Supprot From:
 therbxbot@rbxcorp.tk
 Or:
- <a href="dsc.gg/rbxbotsupport">RBXBot SUpport Server</a> 
+ <a href="dsc.gg/rbxbotsupport">RBXBot Support Server</a> 
