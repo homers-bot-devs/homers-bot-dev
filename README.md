@@ -4,6 +4,9 @@
 RBXBot Is A Mod Bot And A Fun Bot
 It Has A Backup System A Ecomany System And Security System
 Its Developers Are RaspberryRBX#9446, Homer's Rebuttal#9018
+<form action="dsc.gg/rbxbot">
+    <input type="submit" value="Invite RBXBot" />
+</form>
 
 # Commands
 Economy:
