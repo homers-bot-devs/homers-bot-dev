@@ -1,3 +1,9 @@
+---
+title: Support
+layout: template
+filename: support.md
+--- 
+
 # Support
 
 Get Supprot From:
