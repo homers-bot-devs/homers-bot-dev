@@ -30,24 +30,42 @@
          padding: 5px;
         }
         
-        li {
-            display: inline;
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #333;
           }
-    
+          
+          li {
+            float: left;
+          }
+          
+          li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+          }
+          
+          li a:hover:not(.active) {
+            background-color: #111;
+          }
+          
+          .active {
+            background-color: #04AA6D;
+          }
         </style>
     </head>
     <body>
 
-        <nav> RBX Corp
-            <li><p> <form action="index.html">                                                                        
-                <input type="submit" value="home" />
-                 </form></p></li>
-            
-            <li><p> <form action="support.html">
-                <input type="submit" value="support" />
-            </form> </p> </li>
-
-        </nav>
+        <ul>
+            <li><a class="active" href="./index.html">Home</a></li>
+            <li><a href="./RBXbot.html">RBX Bot</a></li>
+            <li><a href="./support.html">Support</a></li>
+          </ul>
         
         <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eiyXK9IqKbg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
