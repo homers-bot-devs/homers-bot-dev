@@ -29,19 +29,43 @@
          color: rgb(0, 0, 0);
          padding: 5px;
         }
-    
+              
+        ul {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          overflow: hidden;
+          background-color: #333;
+        }
+        
+        li {
+          float: left;
+        }
+        
+        li a {
+          display: block;
+          color: white;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+        }
+        
+        li a:hover:not(.active) {
+          background-color: #439feb;
+        }
+        
+        .active {
+          background-color: #1b90f0;
+        }
         </style>
     </head>
     <body>
-
-        <nav> RBX Corp
-          <p> <form action="RBXbot.html">
-            <input type="submit" value="RBX Bot" />
-        </form> </p>
-        <p> <form action="support.html">
-          <input type="submit" value="support" />
-      </form> </p>  
-        </nav>
+       
+      <ul>
+        <li><a class="active" href="./index.html">Home</a></li>
+        <li><a href="./RBXbot.html">RBX Bot</a></li>
+        <li><a href="./support.html">Support</a></li>
+      </ul>
          
         <p></p>
         
