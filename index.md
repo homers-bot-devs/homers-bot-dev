@@ -23,3 +23,7 @@ Say, 8Ball, Ascii, Meme, WB, RPS, Embed</p>
 Invite, Server-info, Info, Avatar, Ping, Support, Status</p>
 <p>Admin:
 Give-Role, Delemoji, Addemoji, Mute, Unmute, Ban, Kick</p>
+
+
+<h1 id="backupsystem">Backup System</h1>
+<p>RBXBot Has A Backup System Where U Can Backup Your Discord Channels Do -backup And You Get Sent A DM With A ID For Info Of Backup Do -infos ID HERE And Load Backup With -load IDHere<p>
