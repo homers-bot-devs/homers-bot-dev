@@ -46,7 +46,7 @@ body {
   }
 
   input[type=button], input[type=submit], input[type=reset] {
-    background-color: rgb(0, 0, 0);
+    background-color: #0080FF;
     border: none;
     color: white;
     padding: 16px 32px;
