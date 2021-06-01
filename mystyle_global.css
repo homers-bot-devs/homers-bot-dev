@@ -65,7 +65,7 @@ body {
   }
   
   li a:hover, .dropdown:hover .dropbtn {
-    background-color: red;
+    background-color: #ffffff;
   }
   
   li.dropdown {
