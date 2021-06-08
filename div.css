@@ -1,0 +1,10 @@
+div.a {
+    width: 300px;
+    margin: 5em auto;
+    padding: 1em;
+    background-color: #fdfdff;
+    border-radius: 0.5em;
+    box-shadow: 2px 3px 7px 2px rgba(0,0,0,0.02);
+    background-color: rgb(161, 159, 159);
+    text-decoration-color: black;
+}
