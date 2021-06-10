@@ -107,8 +107,9 @@ body {
 }
 
 .column2 {
-  width: 33.33%;
+  width: 50%;
   position: fixed;
+  text-align: center;
 }
 
 /* Clear floats after the columns */
