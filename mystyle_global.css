@@ -12,13 +12,11 @@ body {
   }
 
   .footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: #000;
-    color: white;
-    text-align: center;
+     padding: 1px;
+     margin-top: 1px;
+     background-color: #000;
+     color: white;
+     text-align: center;
  }
         
   ul {
@@ -108,7 +106,7 @@ body {
 
 .column2 {
   width: 100%;
-  position: fixed;
+  position: unset;
   text-align: center;
 }
 
