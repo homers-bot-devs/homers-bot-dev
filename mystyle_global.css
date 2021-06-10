@@ -108,7 +108,7 @@ body {
 
 .column2 {
   width: 33.33%;
-  position: absolute;
+  position: fixed;
 }
 
 /* Clear floats after the columns */
